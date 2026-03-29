@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning C and Python
+🌱 I’m currently learning Java
 
 🫠 I’m currently studying "Arificial Intelligence and Data Science"
 
