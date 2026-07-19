@@ -1,7 +1,11 @@
 ## Hi there 👋
 🌱 I’m currently learning Java
 
-🫠 I’m currently studying "Arificial Intelligence and Data Science"
+🫠 I’m studying "Arificial Intelligence and Data Science"
+
+😄 I like: C, Java, Python
+
+🤔 I’m looking for help with "Drive-Time Polygon"s
 
 ## Tags
 
